@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask Question
+    url: https://github.com/bcnmy/partners/discussions
+    about: Ask questions and discuss with other community members
+  - name: Request Feature
+    url: https://github.com/bcnmy/partners/discussions
+    about: Requests features or brainstorm ideas for new functionality
